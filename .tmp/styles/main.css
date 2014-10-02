@@ -1,0 +1,115 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* style my popup windows */
+
+#dialog{
+  background: #ffffff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  color: #666;
+  padding-left: 15px;
+}
+
+
+h1{
+font-size: 1.5em;
+margin: 10px 0;
+color: #000000;
+}
+
+#close{
+  float: right;
+  cursor: pointer;
+}
+
+input{
+  width: 45px;
+  padding:5px;
+  float:left;
+}
+
+#button{
+  float:left;
+  padding-left: 10px;
+}
+
+.info{
+  clear: both;
+}
+.security {
+ padding: 10px 0px 0 15px;
+font-size: 0.8em;
+}
+
+.security:before{
+  content:' ';
+  background:url(../images/lock.png) no-repeat;
+  height:11px;
+  width:9px;
+  position: relative;
+  display: inline-block;
+  left: -5px;
+  top: 1px;
+}
+
+hr{
+  margin:0 0 5px 0;
+}
+
+.error {
+  
+  color:red;
+    font-family: 'Roboto', sans-serif;
+  font-size: 0.8em;
+}
+/* tweak to overight jqueryui style */
+
+.no-close .ui-dialog-titlebar-close {
+  display: none;
+
+   }
+
+
+*{    
+    outline:none;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
