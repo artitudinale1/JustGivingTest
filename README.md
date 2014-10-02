@@ -4,7 +4,7 @@ Jquery
 Jquery-ui to style pop window
 AngularJS
 Firebase as backend. Donations data are store at https://jgivetest.firebaseio.com/. 
-If you want to check the data, login dateils are : alex.garulli@gmail.com  - psw: javascript123
+If you want to check the data, login dateils are : alex.garulli@gmail.com  - psw: onrequest
 
 
 Test online at http://artitudinale.org.uk/JustGivingTest/app/ - usrn : alex - psw: charlotte
