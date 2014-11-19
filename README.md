@@ -9,5 +9,5 @@ Firebase as backend. Donations data are store at https://jgivetest.firebaseio.co
 If you want to check the data, login dateils are : alex.garulli@gmail.com  - psw: onrequest
 
 
-Test online at http://artitudinale.org.uk/JustGivingTest/app/ - usrn : alex - psw: onrequest
+Test online at http://artitudinale.org.uk/JustGivingTest/app/ - usrn : alex - psw: charlotte
 It'd work on IE8 + , Fiferfox 4 + , Chrome 5 +
