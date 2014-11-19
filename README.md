@@ -2,7 +2,8 @@
 
 ##<b>BRIEF/BACKGOUND PROJECT</b>##
 
-This is my answer for the Recruitment-Test https://github.com/JustGiving/Recruitment-Test-Javascript
+This is my answer for the Recruitment-Test https://github.com/JustGiving/Recruitment-Test-Javascript.
+
 I'm not familiar with ASP.NET MVC, so donations data are, in my answer, stored on Firebase. 
 
 ##<b>DESCRIPTION</b>##
