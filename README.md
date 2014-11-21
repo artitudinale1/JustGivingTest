@@ -59,3 +59,4 @@ Firebase as backend.
   - Look in the slighly delay to retrive data from Firebase
  
 
+<b>PLESE IF YOU EXPERIMENT ANY BUGS/ERRORS/PROBLEMS TESTiNG OR CHECKING OUT THIS PROJECT</b> report it though GITHUB or @ alex.garulli@gmail.com
