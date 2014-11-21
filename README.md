@@ -1,6 +1,6 @@
 #<b>Just Giving Recruitment-Test-Javascript </b>#
 
-##<b>BRIEF/BACKGOUND PROJECT</b>##
+##<b>BRIEF/BACKGROUND PROJECT</b>##
 
 This is my answer for the Recruitment-Test @ https://github.com/JustGiving/Recruitment-Test-Javascript.
 
